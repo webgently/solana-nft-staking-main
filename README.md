@@ -1,5 +1,5 @@
 <div align="right">
-  <h1>@TalentedBlockchainDeveloper : This is my telegram</h1>
+  <h1> https://t.me/galaxy_comet: This is my telegram</h1>
   </div>
 <div align="center">
   <h1>Test Staking Contract with Anchor</h1>
